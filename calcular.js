@@ -3,7 +3,7 @@ function calcular(){
     var tab = document.getElementById('seltab')
     
     if (txtnum.value.length == 0) {
-        window.alert('DIGITA UM NÚMERO NÉ, CARALHO')
+        window.alert('Insira um número, por favor')
     }else{
         var a = Number(num.value)
         tab.innerHTML = ''
