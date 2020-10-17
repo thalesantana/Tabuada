@@ -21,12 +21,7 @@ function calcular(){
 
 
 
-    /*var a = 2.1
-    for(var b=0;b<=10;b++){
-        var c = a * b
-        console.log (a,'x',b,'=',c ) 
-    }*/
-    
+  
 
 
        
